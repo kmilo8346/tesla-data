@@ -1,0 +1,562 @@
+{
+  "by_brand": [
+    {
+      "brand": "BYD",
+      "registrations": "729"
+    },
+    {
+      "brand": "TESLA",
+      "registrations": "318"
+    },
+    {
+      "brand": "ZEEKR",
+      "registrations": "134"
+    },
+    {
+      "brand": "XPENG",
+      "registrations": "103"
+    },
+    {
+      "brand": "B.M.W.",
+      "registrations": "102"
+    },
+    {
+      "brand": "M.G.",
+      "registrations": "87"
+    },
+    {
+      "brand": "DENZA",
+      "registrations": "71"
+    },
+    {
+      "brand": "SMART",
+      "registrations": "65"
+    },
+    {
+      "brand": "MAXUS",
+      "registrations": "61"
+    },
+    {
+      "brand": "PORSCHE",
+      "registrations": "46"
+    },
+    {
+      "brand": "MINI",
+      "registrations": "45"
+    },
+    {
+      "brand": "VOLVO",
+      "registrations": "41"
+    },
+    {
+      "brand": "GAC AION",
+      "registrations": "39"
+    },
+    {
+      "brand": "DONGFENG",
+      "registrations": "39"
+    },
+    {
+      "brand": "MERCEDES BENZ",
+      "registrations": "35"
+    },
+    {
+      "brand": "ORA",
+      "registrations": "30"
+    },
+    {
+      "brand": "SUBARU",
+      "registrations": "29"
+    },
+    {
+      "brand": "NETA",
+      "registrations": "26"
+    },
+    {
+      "brand": "NISSAN",
+      "registrations": "25"
+    },
+    {
+      "brand": "HONDA",
+      "registrations": "13"
+    },
+    {
+      "brand": "LEXUS",
+      "registrations": "11"
+    },
+    {
+      "brand": "JMEV",
+      "registrations": "10"
+    },
+    {
+      "brand": "TOYOTA",
+      "registrations": "8"
+    },
+    {
+      "brand": "POLESTAR",
+      "registrations": "6"
+    },
+    {
+      "brand": "WULING",
+      "registrations": "5"
+    },
+    {
+      "brand": "HYUNDAI",
+      "registrations": "5"
+    },
+    {
+      "brand": "VOLKSWAGEN",
+      "registrations": "3"
+    },
+    {
+      "brand": "EVEASY",
+      "registrations": "3"
+    },
+    {
+      "brand": "KG MOBILITY",
+      "registrations": "2"
+    },
+    {
+      "brand": "GEELY",
+      "registrations": "2"
+    },
+    {
+      "brand": "DFSK",
+      "registrations": "2"
+    },
+    {
+      "brand": "AUDI",
+      "registrations": "2"
+    },
+    {
+      "brand": "KIA",
+      "registrations": "1"
+    }
+  ],
+  "by_model": [
+    {
+      "model": "BYD SEALION 7",
+      "registrations": "556"
+    },
+    {
+      "model": "MODEL 3 RWD",
+      "registrations": "291"
+    },
+    {
+      "model": "DENZA D9",
+      "registrations": "71"
+    },
+    {
+      "model": "BYD M6",
+      "registrations": "68"
+    },
+    {
+      "model": "BYD SEAL",
+      "registrations": "66"
+    },
+    {
+      "model": "G6 755 PRO RWD (F30R)",
+      "registrations": "61"
+    },
+    {
+      "model": "9",
+      "registrations": "55"
+    },
+    {
+      "model": "MIFA 7 PREMIUM",
+      "registrations": "54"
+    },
+    {
+      "model": "MG ZS EV",
+      "registrations": "52"
+    },
+    {
+      "model": "X",
+      "registrations": "45"
+    },
+    {
+      "model": "NAMMI A",
+      "registrations": "39"
+    },
+    {
+      "model": "G6 580 PRO RWD (F30R)",
+      "registrations": "39"
+    },
+    {
+      "model": "MACAN",
+      "registrations": "37"
+    },
+    {
+      "model": "009 DELUXE",
+      "registrations": "34"
+    },
+    {
+      "model": "EX30 ULTRA",
+      "registrations": "32"
+    },
+    {
+      "model": "IX1 EDRIVE20 XLINE (U11)",
+      "registrations": "30"
+    },
+    {
+      "model": "SOLTERRA",
+      "registrations": "29"
+    },
+    {
+      "model": "ATTO 3",
+      "registrations": "29"
+    },
+    {
+      "model": "#1 PREMIUM",
+      "registrations": "27"
+    },
+    {
+      "model": "MG4 ELECTRIC",
+      "registrations": "23"
+    },
+    {
+      "model": "#3 BRABUS",
+      "registrations": "22"
+    },
+    {
+      "model": "HYPTEC HT ELITE",
+      "registrations": "20"
+    },
+    {
+      "model": "EQB 250+ FACELIFT (X243)",
+      "registrations": "17"
+    },
+    {
+      "model": "MINI COOPER SE (J01)",
+      "registrations": "16"
+    },
+    {
+      "model": "MINI ACEMAN SE (J05)",
+      "registrations": "15"
+    },
+    {
+      "model": "ARIYA PRESTIGE",
+      "registrations": "15"
+    },
+    {
+      "model": "X INTELLIGENT",
+      "registrations": "14"
+    },
+    {
+      "model": "IX XDRIVE40 (I20)",
+      "registrations": "14"
+    },
+    {
+      "model": "EQA 250+ FACELIFT (H243)",
+      "registrations": "14"
+    },
+    {
+      "model": "E:N1",
+      "registrations": "13"
+    },
+    {
+      "model": "#1 BRABUS",
+      "registrations": "13"
+    },
+    {
+      "model": "MINI COUNTRYMAN E (U25)",
+      "registrations": "12"
+    },
+    {
+      "model": "I4 EDRIVE35 (G26)",
+      "registrations": "12"
+    },
+    {
+      "model": "AION Y PLUS PREMIUM",
+      "registrations": "12"
+    },
+    {
+      "model": "ORA 03 STANDARD RANGE",
+      "registrations": "11"
+    },
+    {
+      "model": "ORA 03 LONG RANGE",
+      "registrations": "11"
+    },
+    {
+      "model": "MODEL 3 PERFORMANCE DUAL MOTOR ALL WHEEL DRIVE",
+      "registrations": "11"
+    },
+    {
+      "model": "I5 EDRIVE40 M SPORT EDITION (G60)",
+      "registrations": "11"
+    },
+    {
+      "model": "RZ450E",
+      "registrations": "10"
+    },
+    {
+      "model": "MODEL 3 LONG RANGE DUAL MOTOR ALL WHEEL DRIVE",
+      "registrations": "10"
+    },
+    {
+      "model": "6",
+      "registrations": "10"
+    },
+    {
+      "model": "MG M9 ADVAN",
+      "registrations": "8"
+    },
+    {
+      "model": "IX3 M SPORT EDITION (G08)",
+      "registrations": "8"
+    },
+    {
+      "model": "EX40 SINGLE MOTOR ULTRA",
+      "registrations": "8"
+    },
+    {
+      "model": "BZ4X",
+      "registrations": "8"
+    },
+    {
+      "model": "BYD DOLPHIN",
+      "registrations": "8"
+    },
+    {
+      "model": "AYA LITE",
+      "registrations": "7"
+    },
+    {
+      "model": "I4 M50 GRAN COUPE (G26)",
+      "registrations": "6"
+    },
+    {
+      "model": "AION Y PLUS",
+      "registrations": "6"
+    },
+    {
+      "model": "IX2 XDRIVE30 M SPORT EDITION (U10)",
+      "registrations": "5"
+    },
+    {
+      "model": "AYA INTELLIGENT",
+      "registrations": "5"
+    },
+    {
+      "model": "ORA 03 GT",
+      "registrations": "4"
+    },
+    {
+      "model": "MODEL Y RWD",
+      "registrations": "4"
+    },
+    {
+      "model": "IX1 XDRIVE30 M SPORT EDITION (U11)",
+      "registrations": "4"
+    },
+    {
+      "model": "IX1 EDRIVE20 M SPORT EDITION (U11)",
+      "registrations": "4"
+    },
+    {
+      "model": "MIFA 9 PREMIUM",
+      "registrations": "3"
+    },
+    {
+      "model": "MIFA 9 LUXURY",
+      "registrations": "3"
+    },
+    {
+      "model": "MG5 SW EV",
+      "registrations": "3"
+    },
+    {
+      "model": "MACAN TURBO",
+      "registrations": "3"
+    },
+    {
+      "model": "MACAN 4",
+      "registrations": "3"
+    },
+    {
+      "model": "LEAF LUX",
+      "registrations": "3"
+    },
+    {
+      "model": "LEAF",
+      "registrations": "3"
+    },
+    {
+      "model": "IONIQ 6 (SELECT)",
+      "registrations": "3"
+    },
+    {
+      "model": "ID.4 PRO ELEGANCE",
+      "registrations": "3"
+    },
+    {
+      "model": "GSE",
+      "registrations": "3"
+    },
+    {
+      "model": "CLOUD EV",
+      "registrations": "3"
+    },
+    {
+      "model": "ARIYA PERFORMANCE",
+      "registrations": "3"
+    },
+    {
+      "model": "#1 PRO+",
+      "registrations": "3"
+    },
+    {
+      "model": "X9 610 PRO FWD (H93R)",
+      "registrations": "2"
+    },
+    {
+      "model": "TORRES EVX",
+      "registrations": "2"
+    },
+    {
+      "model": "TAYCAN",
+      "registrations": "2"
+    },
+    {
+      "model": "SERES 3",
+      "registrations": "2"
+    },
+    {
+      "model": "Q4 45 E-TRON",
+      "registrations": "2"
+    },
+    {
+      "model": "POLESTAR 4 LONG RANGE SINGLE MOTOR",
+      "registrations": "2"
+    },
+    {
+      "model": "POLESTAR 4 LONG RANGE DUAL MOTOR (PP)",
+      "registrations": "2"
+    },
+    {
+      "model": "ORA 07 STANDARD RANGE",
+      "registrations": "2"
+    },
+    {
+      "model": "ORA 07 LONG RANGE",
+      "registrations": "2"
+    },
+    {
+      "model": "MODEL Y LONG RANGE DUAL MOTOR ALL WHEEL DRIVE",
+      "registrations": "2"
+    },
+    {
+      "model": "MINI COUNTRYMAN SE ALL4 (U25)",
+      "registrations": "2"
+    },
+    {
+      "model": "I5 EDRIVE40 (G60)",
+      "registrations": "2"
+    },
+    {
+      "model": "I4 EDRIVE35 M SPORT EDITION (G26)",
+      "registrations": "2"
+    },
+    {
+      "model": "EX5 MAX",
+      "registrations": "2"
+    },
+    {
+      "model": "BINGUO EV",
+      "registrations": "2"
+    },
+    {
+      "model": "X9 702 PRO FWD (H93R)",
+      "registrations": "1"
+    },
+    {
+      "model": "RZ300E",
+      "registrations": "1"
+    },
+    {
+      "model": "POLESTAR 2 STANDARD RANGE SINGLE MOTOR",
+      "registrations": "1"
+    },
+    {
+      "model": "POLESTAR 2 LONG RANGE SINGLE MOTOR",
+      "registrations": "1"
+    },
+    {
+      "model": "MIFA 7 ELITE",
+      "registrations": "1"
+    },
+    {
+      "model": "MG MAXUS 9 PREMIUM",
+      "registrations": "1"
+    },
+    {
+      "model": "MACAN 4S",
+      "registrations": "1"
+    },
+    {
+      "model": "M6",
+      "registrations": "1"
+    },
+    {
+      "model": "LEAF 30X",
+      "registrations": "1"
+    },
+    {
+      "model": "KONA EV RANGE+",
+      "registrations": "1"
+    },
+    {
+      "model": "IX2 EDRIVE20 M SPORT EDITION (U10)",
+      "registrations": "1"
+    },
+    {
+      "model": "IX1 XDRIVE30 (U11)",
+      "registrations": "1"
+    },
+    {
+      "model": "IONIQ 6 RANGE+ AWD",
+      "registrations": "1"
+    },
+    {
+      "model": "I7 EDRIVE50 (G70)",
+      "registrations": "1"
+    },
+    {
+      "model": "I5 M60 XDRIVE (G60)",
+      "registrations": "1"
+    },
+    {
+      "model": "HYPTEC HT ULTRA",
+      "registrations": "1"
+    },
+    {
+      "model": "EX40 SINGLE MOTOR PLUS",
+      "registrations": "1"
+    },
+    {
+      "model": "EVITO 129 L",
+      "registrations": "1"
+    },
+    {
+      "model": "EV9 DELUXE",
+      "registrations": "1"
+    },
+    {
+      "model": "EQV300 LONG",
+      "registrations": "1"
+    },
+    {
+      "model": "EQV300 EXTRA LONG",
+      "registrations": "1"
+    },
+    {
+      "model": "EQS 450+ (V297)",
+      "registrations": "1"
+    },
+    {
+      "model": "ATTO 3 SUPERIOR",
+      "registrations": "1"
+    }
+  ]
+}
