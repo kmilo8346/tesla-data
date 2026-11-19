@@ -1,0 +1,137 @@
+[
+  {
+    "brand": "Audi",
+    "registrations": "705",
+    "market_share": "2.40"
+  },
+  {
+    "brand": "BMW",
+    "registrations": "6,526",
+    "market_share": "22.23"
+  },
+  {
+    "brand": "BYD",
+    "registrations": "1,164",
+    "market_share": "3.96"
+  },
+  {
+    "brand": "Bentley",
+    "registrations": "35",
+    "market_share": "0.12"
+  },
+  {
+    "brand": "Cadillac",
+    "registrations": "78",
+    "market_share": "0.27"
+  },
+  {
+    "brand": "Chevrolet",
+    "registrations": "9",
+    "market_share": "0.03"
+  },
+  {
+    "brand": "Ferrari",
+    "registrations": "27",
+    "market_share": "0.09"
+  },
+  {
+    "brand": "Ford",
+    "registrations": "133",
+    "market_share": "0.45"
+  },
+  {
+    "brand": "GMC",
+    "registrations": "13",
+    "market_share": "0.04"
+  },
+  {
+    "brand": "Honda",
+    "registrations": "155",
+    "market_share": "0.53"
+  },
+  {
+    "brand": "Jeep",
+    "registrations": "216",
+    "market_share": "0.74"
+  },
+  {
+    "brand": "Lamborghini",
+    "registrations": "31",
+    "market_share": "0.11"
+  },
+  {
+    "brand": "Land Rover",
+    "registrations": "409",
+    "market_share": "1.39"
+  },
+  {
+    "brand": "Lexus",
+    "registrations": "1,039",
+    "market_share": "3.54"
+  },
+  {
+    "brand": "Lincoln",
+    "registrations": "58",
+    "market_share": "0.20"
+  },
+  {
+    "brand": "MINI",
+    "registrations": "918",
+    "market_share": "3.13"
+  },
+  {
+    "brand": "Maserati",
+    "registrations": "39",
+    "market_share": "0.13"
+  },
+  {
+    "brand": "Mercedes-Benz",
+    "registrations": "6,139",
+    "market_share": "20.91"
+  },
+  {
+    "brand": "Peugeot",
+    "registrations": "78",
+    "market_share": "0.27"
+  },
+  {
+    "brand": "Polestar",
+    "registrations": "371",
+    "market_share": "1.26"
+  },
+  {
+    "brand": "Porsche",
+    "registrations": "800",
+    "market_share": "2.73"
+  },
+  {
+    "brand": "Rolls-Royce",
+    "registrations": "7",
+    "market_share": "0.02"
+  },
+  {
+    "brand": "Tesla",
+    "registrations": "7,632",
+    "market_share": "26.00"
+  },
+  {
+    "brand": "Toyota",
+    "registrations": "864",
+    "market_share": "2.94"
+  },
+  {
+    "brand": "Volkswagen",
+    "registrations": "452",
+    "market_share": "1.54"
+  },
+  {
+    "brand": "Volvo",
+    "registrations": "1,459",
+    "market_share": "4.97"
+  },
+  {
+    "brand": "Total",
+    "registrations": "29,357",
+    "market_share": "100.00"
+  }
+]
