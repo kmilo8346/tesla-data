@@ -1,0 +1,374 @@
+{
+  "group": "personbiler",
+  "from": "2026-10-01",
+  "to": "2026-10-31",
+  "periodLabel": "oktober 2026",
+  "ytdFrom": "2026-01-01",
+  "ytdLabel": "2026",
+  "ytdRangeLabel": "1. januar–31. oktober 2026",
+  "brands": {
+    "total": 15725,
+    "rows": [
+      {
+        "name": "Tesla",
+        "count": 1548,
+        "share": 9.844197138314785
+      },
+      {
+        "name": "Toyota",
+        "count": 1493,
+        "share": 9.49443561208267
+      },
+      {
+        "name": "Volkswagen",
+        "count": 1308,
+        "share": 8.317965023847377
+      },
+      {
+        "name": "BMW",
+        "count": 1025,
+        "share": 6.518282988871224
+      },
+      {
+        "name": "XPeng",
+        "count": 932,
+        "share": 5.926868044515103
+      },
+      {
+        "name": "Volvo",
+        "count": 851,
+        "share": 5.411764705882352
+      },
+      {
+        "name": "BYD",
+        "count": 816,
+        "share": 5.189189189189189
+      },
+      {
+        "name": "Audi",
+        "count": 787,
+        "share": 5.004769475357711
+      },
+      {
+        "name": "Mercedes-Benz",
+        "count": 720,
+        "share": 4.578696343402226
+      },
+      {
+        "name": "Skoda",
+        "count": 690,
+        "share": 4.3879173290938
+      },
+      {
+        "name": "MG",
+        "count": 457,
+        "share": 2.9062003179650238
+      },
+      {
+        "name": "Kia",
+        "count": 419,
+        "share": 2.664546899841018
+      },
+      {
+        "name": "Ford",
+        "count": 407,
+        "share": 2.588235294117647
+      },
+      {
+        "name": "Hyundai",
+        "count": 405,
+        "share": 2.575516693163752
+      },
+      {
+        "name": "Nissan",
+        "count": 364,
+        "share": 2.314785373608903
+      },
+      {
+        "name": "Zeekr",
+        "count": 359,
+        "share": 2.2829888712241653
+      },
+      {
+        "name": "Changan",
+        "count": 339,
+        "share": 2.1558028616852147
+      },
+      {
+        "name": "Subaru",
+        "count": 306,
+        "share": 1.9459459459459458
+      },
+      {
+        "name": "Smart",
+        "count": 273,
+        "share": 1.7360890302066772
+      },
+      {
+        "name": "Polestar",
+        "count": 234,
+        "share": 1.4880763116057234
+      },
+      {
+        "name": "Suzuki",
+        "count": 227,
+        "share": 1.4435612082670908
+      },
+      {
+        "name": "Peugeot",
+        "count": 210,
+        "share": 1.3354531001589824
+      },
+      {
+        "name": "MINI",
+        "count": 170,
+        "share": 1.0810810810810811
+      },
+      {
+        "name": "Mazda",
+        "count": 165,
+        "share": 1.0492845786963434
+      },
+      {
+        "name": "Porsche",
+        "count": 147,
+        "share": 0.9348171701112878
+      },
+      {
+        "name": "Dongfeng",
+        "count": 128,
+        "share": 0.8139904610492845
+      },
+      {
+        "name": "Opel",
+        "count": 122,
+        "share": 0.7758346581875993
+      },
+      {
+        "name": "Renault",
+        "count": 121,
+        "share": 0.7694753577106518
+      },
+      {
+        "name": "Cupra",
+        "count": 117,
+        "share": 0.7440381558028617
+      },
+      {
+        "name": "Lexus",
+        "count": 107,
+        "share": 0.6804451510333863
+      }
+    ]
+  },
+  "models": {
+    "total": 15725,
+    "rows": [
+      {
+        "name": "Tesla Model Y",
+        "count": 1429,
+        "share": 9.087440381558029
+      },
+      {
+        "name": "Toyota bZ4X",
+        "count": 725,
+        "share": 4.610492845786964
+      },
+      {
+        "name": "Volkswagen ID.4",
+        "count": 553,
+        "share": 3.5166931637519876
+      },
+      {
+        "name": "XPeng G6",
+        "count": 542,
+        "share": 3.446740858505564
+      },
+      {
+        "name": "Audi Q4 e-tron",
+        "count": 535,
+        "share": 3.4022257551669313
+      },
+      {
+        "name": "Mercedes-Benz GLC",
+        "count": 508,
+        "share": 3.230524642289348
+      },
+      {
+        "name": "BMW iX3",
+        "count": 446,
+        "share": 2.836248012718601
+      },
+      {
+        "name": "BYD EVO 4x4",
+        "count": 437,
+        "share": 2.779014308426073
+      },
+      {
+        "name": "Toyota Urban Cruiser",
+        "count": 415,
+        "share": 2.6391096979332276
+      },
+      {
+        "name": "Volvo EX30",
+        "count": 340,
+        "share": 2.1621621621621623
+      },
+      {
+        "name": "Changan Deepal S05",
+        "count": 338,
+        "share": 2.149443561208267
+      },
+      {
+        "name": "Skoda Enyaq",
+        "count": 324,
+        "share": 2.0604133545310015
+      },
+      {
+        "name": "BYD Sealion 7",
+        "count": 310,
+        "share": 1.971383147853736
+      },
+      {
+        "name": "Volkswagen ID.7",
+        "count": 308,
+        "share": 1.958664546899841
+      },
+      {
+        "name": "Volvo EX40",
+        "count": 308,
+        "share": 1.958664546899841
+      },
+      {
+        "name": "BMW iX1",
+        "count": 303,
+        "share": 1.9268680445151034
+      },
+      {
+        "name": "Skoda Elroq",
+        "count": 300,
+        "share": 1.9077901430842605
+      },
+      {
+        "name": "Toyota C-HR+",
+        "count": 299,
+        "share": 1.9014308426073132
+      },
+      {
+        "name": "XPeng G9",
+        "count": 236,
+        "share": 1.5007949125596185
+      },
+      {
+        "name": "Suzuki e Vitara",
+        "count": 226,
+        "share": 1.4372019077901432
+      },
+      {
+        "name": "Zeekr 7GT",
+        "count": 219,
+        "share": 1.3926868044515104
+      },
+      {
+        "name": "Smart #5",
+        "count": 204,
+        "share": 1.2972972972972971
+      },
+      {
+        "name": "Audi Q6",
+        "count": 199,
+        "share": 1.2655007949125596
+      },
+      {
+        "name": "Kia EV5",
+        "count": 177,
+        "share": 1.1255961844197138
+      },
+      {
+        "name": "Hyundai Kona",
+        "count": 176,
+        "share": 1.1192368839427662
+      },
+      {
+        "name": "Ford Explorer EV",
+        "count": 172,
+        "share": 1.0937996820349762
+      },
+      {
+        "name": "Nissan Ariya",
+        "count": 169,
+        "share": 1.0747217806041336
+      },
+      {
+        "name": "Volkswagen ID.3",
+        "count": 169,
+        "share": 1.0747217806041336
+      },
+      {
+        "name": "Volkswagen ID. Polo",
+        "count": 167,
+        "share": 1.0620031796502385
+      },
+      {
+        "name": "Subaru Uncharted",
+        "count": 155,
+        "share": 0.985691573926868
+      }
+    ]
+  },
+  "fuel": {
+    "periodTotal": 15725,
+    "ytdTotal": 130922,
+    "rows": [
+      {
+        "name": "Elektrisitet",
+        "period": 15536,
+        "periodShare": 98.79809220985692,
+        "ytd": 128362,
+        "ytdShare": 98.04463726493637
+      },
+      {
+        "name": "Diesel",
+        "period": 89,
+        "periodShare": 0.5659777424483307,
+        "ytd": 940,
+        "ytdShare": 0.7179847542811751
+      },
+      {
+        "name": "Bensin hybrid",
+        "period": 53,
+        "periodShare": 0.3370429252782194,
+        "ytd": 761,
+        "ytdShare": 0.5812621255403981
+      },
+      {
+        "name": "Bensin plugin hybrid",
+        "period": 33,
+        "periodShare": 0.20985691573926868,
+        "ytd": 617,
+        "ytdShare": 0.47127297169306914
+      },
+      {
+        "name": "Bensin",
+        "period": 14,
+        "periodShare": 0.08903020667726551,
+        "ytd": 200,
+        "ytdShare": 0.15276271367684577
+      },
+      {
+        "name": "Diesel plugin hybrid",
+        "period": 0,
+        "periodShare": 0,
+        "ytd": 41,
+        "ytdShare": 0.03131635630375338
+      },
+      {
+        "name": "Diesel hybrid",
+        "period": 0,
+        "periodShare": 0,
+        "ytd": 1,
+        "ytdShare": 0.0007638135683842288
+      }
+    ]
+  }
+}
